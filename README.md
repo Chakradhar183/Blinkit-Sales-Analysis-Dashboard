@@ -151,12 +151,4 @@ Blinkit-PowerBI-Report/
 └── README.md
 ```
 
----
 
-## About Me
-
-Chakradhar Sadhana
-
-Aspiring Data Analyst with an interest in Power BI, SQL, Python, and Data Visualization.
-
-Feel free to explore the dashboard and share any feedback.
